@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/User/IdeaProjects/AndroideappTestting"><classes><class name="TestCase.TC01homeTest"><methods><include name="gotoProductPage"/></methods></class><class name="TestCase.TC02productTest"><methods><include name="addProductToCart"/></methods></class><class name="TestCase.TC03cartTest"><methods><include name="shopDone"/></methods></class></classes></test></suite>
